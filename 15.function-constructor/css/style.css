@@ -1,0 +1,10 @@
+.cat-age {
+   color: red;
+}
+
+.animals {
+   display: flex;
+   flex-direction: row;
+}
+
+.animals__block {}
